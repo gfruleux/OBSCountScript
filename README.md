@@ -7,8 +7,8 @@
 * Ajouter à OBS le chemin du fichier **Output.txt**
 ![Image OBS Text Source](obs_text_source.png)
 
-* Modifiez la valeur de "Output.txt" pour coller à votre défis _(ex: 50 pour avoir X / 50)_
-* Double-cliquez OBSCountScript.ahk pour lancer le script
+* Modifiez la valeur dans le fichier _Max.txt_ pour coller à votre défis _(ex: 50 pour avoir X / 50)_
+* Double-cliquez **OBSCountScript.ahk** pour lancer le script
 
 
 * Utilisez F12 pour Incrémenter le compteur
