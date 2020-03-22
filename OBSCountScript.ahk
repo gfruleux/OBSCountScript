@@ -2,7 +2,7 @@
 
 filePathCount = <Chemin vers Current.txt>
 filePathTotal = <Chemin vers Max.txt>
-filePathOut = <Chemin vers Out.txt>
+filePathOut = <Chemin vers Output.txt>
 
 IfNotExist, %filePathCount%
 	FileAppend, 0, %filePathCount%
