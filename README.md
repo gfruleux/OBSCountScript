@@ -4,13 +4,6 @@
 
 * Installez AutoHotKey https://www.autohotkey.com/
 
-* Modifiez le fichier **OBSCountScript.ahk** pour les valeurs suivantes
- 
-
-    filePathCount = <Chemin vers Current.txt>    
-    filePathTotal = <Chemin vers Max.txt>   
-    filePathOut = <Chemin vers Out.txt>
-
 * Ajouter à OBS le chemin du fichier **Output.txt**
 ![Image OBS Text Source](obs_text_source.png)
 

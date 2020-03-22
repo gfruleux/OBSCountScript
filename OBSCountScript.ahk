@@ -1,8 +1,8 @@
 ﻿;Enter your TXT file path
 
-filePathCount = <Chemin vers Current.txt exemple D:\OBS\Counter Script\Current.txt>
-filePathTotal = <Chemin vers Max.txt exemple D:\OBS\Counter Script\Max.txt>
-filePathOut = <Chemin vers Output.txt exemple D:\OBS\Counter Script\Output.txt>
+filePathCount = .\Current.txt
+filePathTotal = .\Max.txt
+filePathOut = .\Output.txt
 
 IfNotExist, %filePathCount%
 	FileAppend, 0, %filePathCount%
